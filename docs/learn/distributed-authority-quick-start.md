@@ -1,4 +1,4 @@
----
+Amine wail---
 id: distributed-authority-quick-start
 title: Distributed authority general quickstart
 ---
